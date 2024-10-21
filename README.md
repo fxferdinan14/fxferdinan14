@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fransiskus Xaverius Ferdinan</h1>
-<h3 align="center">AI & ML Enthusiast ( NLP, Computer Vision, Time Series Forecasting ) 🇮🇩</h3>
+<h3 align="center">AI & ML Enthusiast ( NLP , Computer Vision, Time Series Forecasting ) 🇮🇩</h3>
 
 - 🌱 I’m currently learning **Deep Learning , AI**
 
